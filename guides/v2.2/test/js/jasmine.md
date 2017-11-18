@@ -70,7 +70,7 @@ which tests a JS module:
 
 in its static representations generated in [Step 6] previously:
 
-`<magento_root_dir>/pub/static/<area>/<theme>/<localisation>/Magento_Ui/js/columns/actions.js`.
+`<magento_root_dir>/pub/static/<area>/<theme>/<localisation>/Magento_Ui/js/grid/columns/actions.js`.
 
 ### Step 1. Create a new file with name `<fileName>.test.js` in an appropriate module directory.
 
